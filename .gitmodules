@@ -1,0 +1,6 @@
+[submodule "buymeacoffee/backend/lib/forge-std"]
+	path = buymeacoffee/backend/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "buymeacoffee/backend/lib/chainlink-brownie-contracts"]
+	path = buymeacoffee/backend/lib/chainlink-brownie-contracts
+	url = https://github.com/smartcontractkit/chainlink-brownie-contracts
